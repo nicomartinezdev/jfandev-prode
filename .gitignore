@@ -21,3 +21,4 @@ nb-configuration.xml
 ##### Maven #####
 target/
 log/
+/bin/
